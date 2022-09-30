@@ -32,4 +32,13 @@ C.	Analisis Kebutuhan Aplikasi
 |Riwayat Pemesanan     | Pada fitur ini akan menampilkan daftar tiket yang telah dipesan |
 |Tata Cara             | Pada fitur ini system akan menampilkan beberapa isi/konten mengenai informasi terkait tata cara pemesanan e tiket|
 
+2.	Analisis Teknologi
+|Teknologi             |Penjelasan Teknologi|
+|----------------------|---------------------------------------------------------------------------------|
+|HTML                  | Membuat struktur halaman dan menyajikan konten media pembelajaran               |
+|CSS                   | Mengatur tampilan layout seperti tatak letak, gambar, ukuran font, dan warna    |
+|JavaScript            | Membuat aplikasi penjualan e-ticket menjadi interaktif                          |
+|Firebase              | Untuk menyimpan data pengguna dan riwayat pemesanannya                          |
+|JSON                  | Untuk menyimpan data statis seperti jumlah ketersediaan slot penumpang dan tiket|
+
 
