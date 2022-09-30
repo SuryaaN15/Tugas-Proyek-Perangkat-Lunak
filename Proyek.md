@@ -23,7 +23,10 @@ c.	Aplikasi ini dapat memberikan informasi yang tepat mengenai pemesanan (e-book
 d.	Aplikasi ini memberikan kode e-booking tiket kelotok secara cepat melalui smartphone penumpang tanpa harus mengantri lama seperti membeli tiket manual di loket agen penjualan tiket.
 
 C.	Analisis Kebutuhan Aplikasi
+
 1.	Analisis Fitur/Konten
+-------------------------
+
 
 |Fitur/Konten          |Penjelasan Fitur/Konten|
 |----------------------|-----------------------|
@@ -33,6 +36,8 @@ C.	Analisis Kebutuhan Aplikasi
 |Tata Cara             | Pada fitur ini system akan menampilkan beberapa isi/konten mengenai informasi terkait tata cara pemesanan e tiket|
 
 2.	Analisis Teknologi
+----------------------
+
 |Teknologi             |Penjelasan Teknologi|
 |----------------------|---------------------------------------------------------------------------------|
 |HTML                  | Membuat struktur halaman dan menyajikan konten media pembelajaran               |
@@ -41,4 +46,13 @@ C.	Analisis Kebutuhan Aplikasi
 |Firebase              | Untuk menyimpan data pengguna dan riwayat pemesanannya                          |
 |JSON                  | Untuk menyimpan data statis seperti jumlah ketersediaan slot penumpang dan tiket|
 
+3.	Analisis Keterkaitan Fitur/Konten dan Teknologi
+-----------------------------------------------
+
+|Fitur/Konten          |Teknologi|
+|----------------------|---------------------------------------------------------------------------------|
+|Login/registrasi      | HTML, CSS, JavaScript, dan Firebase                                             |
+|Pemesanan tiket       | HTML, CSS, JavaScript, firebase                                                 |
+|Riwayat Pemesanan     | HTML, CSS, JavaScript, firebase                                                 |
+|Tata Cara             | HTML, CSS, JavaScript, JSON                                                     |
 
